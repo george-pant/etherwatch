@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/argus/static/css/main.a617e044.chunk.css",
+    "main.js": "/argus/static/js/main.7f9b1c4e.chunk.js",
+    "main.js.map": "/argus/static/js/main.7f9b1c4e.chunk.js.map",
+    "runtime-main.js": "/argus/static/js/runtime-main.6f402067.js",
+    "runtime-main.js.map": "/argus/static/js/runtime-main.6f402067.js.map",
+    "static/js/2.5444a983.chunk.js": "/argus/static/js/2.5444a983.chunk.js",
+    "static/js/2.5444a983.chunk.js.map": "/argus/static/js/2.5444a983.chunk.js.map",
+    "static/js/3.10f751d9.chunk.js": "/argus/static/js/3.10f751d9.chunk.js",
+    "static/js/3.10f751d9.chunk.js.map": "/argus/static/js/3.10f751d9.chunk.js.map",
+    "index.html": "/argus/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/argus/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.5444a983.chunk.js.LICENSE.txt": "/argus/static/js/2.5444a983.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/argus/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f402067.js",
+    "static/js/2.5444a983.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.7f9b1c4e.chunk.js"
+  ]
+}
